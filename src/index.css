@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;800&display=swap");
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+* {
+  font-family: Raleway;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 1428px; /* 2 px olib tashla borderni olgandan keyin */
+  /* border: 1px green solid; */
+}
+
+img {
+  width: 100%;
+}
