@@ -16,10 +16,12 @@ const index = () => {
                         <div className="footer__right">
                             <h2 className='footer__right-title'>Xabar qoldirish</h2>
                             <p className='footer__right-text'>Alisher Rustamovga o‘z fikrlaringiz, munosabatlaringizni bildirish imkoniyatingiz bor!</p>
-                            <span className='footer__right--span'>
+                            <form target='_blank' action="https://echo.htmlacademy.ru"  name='message' method='post' className='footer__right--span'>
                                 <input className='footer__right--span-input' type="text" placeholder='Xabar Qoldirish' />
-                                <button className='footer__right--span-btn'>Yuborish</button>
-                            </span>
+                                <button type='submit' className='footer__right--span-btn'>Yuborish</button>
+                            </form>
+
+                            <form action="" method="post"></form>
                         </div>
                     </div>
                 </div>

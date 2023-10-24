@@ -79,7 +79,7 @@ const index = () => {
                                 <div className="down_contents">
 
                                     <div className="down_contents--left">
-                                        <h3 className="down_contents--left-title">Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</h3>
+                                        <a href="#" className='down_contents--left-title'>Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</a>
                                         <p className='down_contents--left-text'>Yaqinda bir psixologning suhbatini eshitib qoldim. U aytishicha o‘sha davrda hech qanday moliyaviy muhim qarorlar qabul qilish kerak emas ekan…</p>
                                         <p className='down_contents--left-time'>13.08.2022</p>
                                     </div>
@@ -92,7 +92,7 @@ const index = () => {
                                 <div className="down_contents">
 
                                     <div className="down_contents--left">
-                                        <h3 className="down_contents--left-title">Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</h3>
+                                        <a href="#" className='down_contents--left-title'>Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</a>
                                         <p className='down_contents--left-text'>Yaqinda bir psixologning suhbatini eshitib qoldim. U aytishicha o‘sha davrda hech qanday moliyaviy muhim qarorlar qabul qilish kerak emas ekan…</p>
                                         <p className='down_contents--left-time'>13.08.2022</p>
                                     </div>
@@ -105,7 +105,7 @@ const index = () => {
                                 <div className="down_contents">
 
                                     <div className="down_contents--left">
-                                        <h3 className="down_contents--left-title">Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</h3>
+                                        <a href="#" className='down_contents--left-title'>Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</a>
                                         <p className='down_contents--left-text'>Yaqinda bir psixologning suhbatini eshitib qoldim. U aytishicha o‘sha davrda hech qanday moliyaviy muhim qarorlar qabul qilish kerak emas ekan…</p>
                                         <p className='down_contents--left-time'>13.08.2022</p>
                                     </div>
@@ -118,7 +118,7 @@ const index = () => {
                                 <div className="down_contents">
 
                                     <div className="down_contents--left">
-                                        <h3 className="down_contents--left-title">Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</h3>
+                                        <a href="#" className='down_contents--left-title'>Xayotda shunday vaziyatlar bo‘ladiki, kimdan yordam so‘ramang…</a>
                                         <p className='down_contents--left-text'>Yaqinda bir psixologning suhbatini eshitib qoldim. U aytishicha o‘sha davrda hech qanday moliyaviy muhim qarorlar qabul qilish kerak emas ekan…</p>
                                         <p className='down_contents--left-time'>13.08.2022</p>
                                     </div>
